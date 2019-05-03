@@ -48,3 +48,7 @@ if b = 0:
 a' <- the remainder when a is divied by b
 return EclidGCD(b,a')
 ```
+
+# Asymtotic Notation
+
+
